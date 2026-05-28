@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusteruncrypt",
+        "uuid": 18375637,
+        "checksum": "1mw44h"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
